@@ -1,0 +1,133 @@
+<svg id="Group_59" data-name="Group 59" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="900" viewBox="0 0 1440 900">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.637" gradientTransform="translate(0.167) scale(0.667 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.015" stop-color="#258e55"/>
+      <stop offset="1" stop-color="#1b6d52"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3" data-name="Rectangle 3" width="1440" height="899" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="1" cy="0.434" r="7.707" gradientTransform="translate(0.435) scale(0.13 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.219" stop-color="#d9d9da" stop-opacity="0.271"/>
+      <stop offset="0.437" stop-color="#babbbd" stop-opacity="0.49"/>
+      <stop offset="0.645" stop-color="#a4a6a8" stop-opacity="0.647"/>
+      <stop offset="0.837" stop-color="#97999c" stop-opacity="0.741"/>
+      <stop offset="1" stop-color="#939598" stop-opacity="0.773"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0" cy="0.434" r="7.707" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-4" cx="0.5" cy="-0.009" r="1.001" gradientTransform="translate(-3.349) scale(7.699 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.991" r="1.001" gradientTransform="translate(-3.349) scale(7.699 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-6" cy="-0.011" r="1.329" gradientTransform="translate(0)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-7" cx="0" cy="0.989" r="1.329" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-8" cy="0.989" r="1.329" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-9" cx="0" cy="-0.011" r="1.329" gradientTransform="translate(0)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-12" cy="0.98" r="2.303" gradientTransform="translate(0.272) scale(0.457 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-13" cx="0" cy="-0.02" r="2.303" gradientTransform="translate(0.272) scale(0.457 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-14" cy="-0.02" r="2.301" gradientTransform="translate(0.271) scale(0.457 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-15" cx="0" cy="0.98" r="2.301" gradientTransform="translate(0.271) scale(0.457 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-16" cx="0" cy="-0.009" r="1.052" gradientTransform="translate(-0.594) scale(2.188 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-17" cy="0.991" r="1.052" gradientTransform="translate(-0.594) scale(2.188 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-18" cy="-0.009" r="1.052" gradientTransform="translate(-0.594) scale(2.188 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-19" cx="0" cy="0.991" r="1.052" gradientTransform="translate(-0.594) scale(2.188 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-20" cy="0.966" r="3.968" gradientTransform="translate(0.373) scale(0.254 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-21" cx="0" cy="-0.034" r="3.968" gradientTransform="translate(0.373) scale(0.254 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-22" cy="-0.009" r="1.007" gradientTransform="translate(-1.471) scale(3.941 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-23" cx="0" cy="0.991" r="1.007" gradientTransform="translate(-1.471) scale(3.941 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-24" cy="-0.014" r="1.628" gradientTransform="translate(0.144) scale(0.712 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-25" cx="0" cy="0.986" r="1.628" gradientTransform="translate(0.144) scale(0.712 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-26" cy="0.99" r="1.158" gradientTransform="translate(-0.203) scale(1.405 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-27" cx="0" cy="-0.01" r="1.158" gradientTransform="translate(-0.203) scale(1.405 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-30" cy="0.986" r="1.677" gradientTransform="translate(0.159) scale(0.682 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-31" cx="0" cy="-0.014" r="1.677" gradientTransform="translate(0.159) scale(0.682 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-32" cy="-0.034" r="3.894" gradientTransform="translate(0.371) scale(0.259 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-33" cx="0" cy="0.966" r="3.894" gradientTransform="translate(0.371) scale(0.259 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-34" cx="0" cy="-0.009" r="1.007" gradientTransform="translate(-1.434) scale(3.869 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-35" cy="0.991" r="1.007" gradientTransform="translate(-1.434) scale(3.869 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-36" cy="-0.01" r="1.144" gradientTransform="translate(-0.233) scale(1.465 1)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-37" cx="0" cy="0.99" r="1.144" gradientTransform="translate(-0.233) scale(1.465 1)" xlink:href="#radial-gradient-2"/>
+  </defs>
+  <g id="Gradient">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="1440" height="900" fill="url(#radial-gradient)"/>
+  </g>
+  <g id="pattern">
+    <g id="Group_21" data-name="Group 21" style="mix-blend-mode: multiply;isolation: isolate">
+      <g id="Group_20" data-name="Group 20" clip-path="url(#clip-path)">
+        <g id="Group_19" data-name="Group 19" transform="translate(-750.182 -538.446)" opacity="0.35">
+          <g id="Group_1" data-name="Group 1" transform="translate(0 1064.588)">
+            <path id="Path_1" data-name="Path 1" d="M465.6,635.783-750.182,709.724V561.842L465.6,635.783Z" transform="translate(750.182 -561.842)" fill="url(#radial-gradient-2)"/>
+            <path id="Path_2" data-name="Path 2" d="M1681.382,709.724,465.6,635.783h0l1215.782-73.941Z" transform="translate(750.182 -561.842)" fill="url(#radial-gradient-3)"/>
+          </g>
+          <g id="Group_2" data-name="Group 2" transform="translate(1136.824)">
+            <path id="Path_3" data-name="Path 3" d="M465.6,640.8l78.958,1138.529H386.642L465.6,640.8Z" transform="translate(-386.642 497.729)" fill="url(#radial-gradient-4)"/>
+            <path id="Path_4" data-name="Path 4" d="M544.558-574.982,465.6,563.547h0L386.642-574.982Z" transform="translate(-386.642 574.982)" fill="url(#radial-gradient-5)"/>
+          </g>
+          <g id="Group_3" data-name="Group 3" transform="translate(300.263 281.183)">
+            <path id="Path_5" data-name="Path 5" d="M465.6,640.8l-803.856,857.346-111.663-104.568L465.6,640.8Z" transform="translate(449.919 216.546)" fill="url(#radial-gradient-6)"/>
+            <path id="Path_6" data-name="Path 6" d="M1381.119-170.151,465.6,582.626h0l803.856-857.346Z" transform="translate(449.919 274.719)" fill="url(#radial-gradient-7)"/>
+          </g>
+          <g id="Group_4" data-name="Group 4" transform="translate(300.263 281.183)">
+            <path id="Path_7" data-name="Path 7" d="M465.6,582.626-449.919-170.151l111.663-104.568L465.6,582.626Z" transform="translate(449.919 274.719)" fill="url(#radial-gradient-8)"/>
+            <path id="Path_8" data-name="Path 8" d="M1269.456,1498.146,465.6,640.8h0l915.519,752.777Z" transform="translate(449.919 216.546)" fill="url(#radial-gradient-9)"/>
+          </g>
+          <g id="Group_5" data-name="Group 5" transform="translate(0 1064.588)">
+            <path id="Path_9" data-name="Path 9" d="M465.6,635.783-750.182,709.724V561.842L465.6,635.783Z" transform="translate(750.182 -561.842)" fill="url(#radial-gradient-2)"/>
+            <path id="Path_10" data-name="Path 10" d="M1681.382,709.724,465.6,635.783h0l1215.782-73.941Z" transform="translate(750.182 -561.842)" fill="url(#radial-gradient-3)"/>
+          </g>
+          <g id="Group_6" data-name="Group 6" transform="translate(58.852 643.738)">
+            <path id="Path_11" data-name="Path 11" d="M465.6,607.227-691.33,249.563l59.118-137.128L465.6,607.227Z" transform="translate(691.33 -112.436)" fill="url(#radial-gradient-12)"/>
+            <path id="Path_12" data-name="Path 12" d="M1563.412,1135.591,465.6,640.8h0L1622.53,998.464Z" transform="translate(691.33 -146.009)" fill="url(#radial-gradient-13)"/>
+          </g>
+          <g id="Group_7" data-name="Group 7" transform="translate(59.049 643.206)">
+            <path id="Path_13" data-name="Path 13" d="M465.6,640.8-631.938,1136.123l-59.194-137.1L465.6,640.8Z" transform="translate(691.133 -145.477)" fill="url(#radial-gradient-14)"/>
+            <path id="Path_14" data-name="Path 14" d="M1622.333,248.967,465.6,607.191h0L1563.138,111.868Z" transform="translate(691.133 -111.868)" fill="url(#radial-gradient-15)"/>
+          </g>
+          <g id="Group_8" data-name="Group 8" transform="translate(687.133 55.204)">
+            <path id="Path_15" data-name="Path 15" d="M465.6,640.8,994.249,1668.727l-146.417,55.4L465.6,640.8Z" transform="translate(63.049 442.524)" fill="url(#radial-gradient-16)"/>
+            <path id="Path_16" data-name="Path 16" d="M83.369-516.031,465.6,567.293h0L-63.049-460.634Z" transform="translate(63.049 516.031)" fill="url(#radial-gradient-17)"/>
+          </g>
+          <g id="Group_9" data-name="Group 9" transform="translate(687.133 55.204)">
+            <path id="Path_17" data-name="Path 17" d="M465.6,640.8,83.369,1724.125l-146.417-55.4L465.6,640.8Z" transform="translate(63.049 442.524)" fill="url(#radial-gradient-18)"/>
+            <path id="Path_18" data-name="Path 18" d="M994.249-460.634,465.6,567.293h0L847.831-516.031Z" transform="translate(63.049 516.031)" fill="url(#radial-gradient-19)"/>
+          </g>
+          <g id="Group_10" data-name="Group 10" transform="translate(6.911 851.306)">
+            <path id="Path_19" data-name="Path 19" d="M465.6,621.311-743.271,479.318-713.5,334.088,465.6,621.311Z" transform="translate(743.271 -334.088)" fill="url(#radial-gradient-20)"/>
+            <path id="Path_20" data-name="Path 20" d="M1644.7,928.023,465.6,640.8h0L1674.471,782.793Z" transform="translate(743.271 -353.577)" fill="url(#radial-gradient-21)"/>
+          </g>
+          <g id="Group_11" data-name="Group 11" transform="translate(909.069 6.472)">
+            <path id="Path_21" data-name="Path 21" d="M465.6,640.8,313.973,1772.857l-155.085-27.875L465.6,640.8Z" transform="translate(-158.888 491.257)" fill="url(#radial-gradient-22)"/>
+            <path id="Path_22" data-name="Path 22" d="M772.312-540.2,465.6,563.986h0L617.227-568.071Z" transform="translate(-158.888 568.071)" fill="url(#radial-gradient-23)"/>
+          </g>
+          <g id="Group_12" data-name="Group 12" transform="translate(165.151 438.447)">
+            <path id="Path_23" data-name="Path 23" d="M465.6,640.8l-962.017,700.081-88.614-122.4L465.6,640.8Z" transform="translate(585.031 59.281)" fill="url(#radial-gradient-24)"/>
+            <path id="Path_24" data-name="Path 24" d="M1516.231,15.62,465.6,593.3h0l962.017-700.081Z" transform="translate(585.031 106.784)" fill="url(#radial-gradient-25)"/>
+          </g>
+          <g id="Group_13" data-name="Group 13" transform="translate(468.198 154.657)">
+            <path id="Path_25" data-name="Path 25" d="M465.6,574.041-281.984-326.848l130.71-82.983L465.6,574.041Z" transform="translate(281.984 409.831)" fill="url(#radial-gradient-26)"/>
+            <path id="Path_26" data-name="Path 26" d="M1082.475,1624.672,465.6,640.8h0l747.584,900.889Z" transform="translate(281.984 343.072)" fill="url(#radial-gradient-27)"/>
+          </g>
+          <g id="Group_14" data-name="Group 14" transform="translate(6.911 851.306)">
+            <path id="Path_27" data-name="Path 27" d="M465.6,621.311-743.271,479.318-713.5,334.088,465.6,621.311Z" transform="translate(743.271 -334.088)" fill="url(#radial-gradient-20)"/>
+            <path id="Path_28" data-name="Path 28" d="M1644.7,928.023,465.6,640.8h0L1674.471,782.793Z" transform="translate(743.271 -353.577)" fill="url(#radial-gradient-21)"/>
+          </g>
+          <g id="Group_15" data-name="Group 15" transform="translate(151.583 458.823)">
+            <path id="Path_29" data-name="Path 29" d="M465.6,594.68-598.6,39.208l85.66-124.234L465.6,594.68Z" transform="translate(598.598 85.026)" fill="url(#radial-gradient-30)"/>
+            <path id="Path_30" data-name="Path 30" d="M1444.138,1320.506,465.6,640.8h0l1064.2,555.472Z" transform="translate(598.598 38.906)" fill="url(#radial-gradient-31)"/>
+          </g>
+          <g id="Group_16" data-name="Group 16" transform="translate(7.679 845.821)">
+            <path id="Path_31" data-name="Path 31" d="M465.6,640.8-711.965,933.508-742.5,788.418,465.6,640.8Z" transform="translate(742.502 -348.092)" fill="url(#radial-gradient-32)"/>
+            <path id="Path_32" data-name="Path 32" d="M1673.7,473.321,465.6,620.939h0L1643.165,328.231Z" transform="translate(742.502 -328.231)" fill="url(#radial-gradient-33)"/>
+          </g>
+          <g id="Group_17" data-name="Group 17" transform="translate(903.517 7.153)">
+            <path id="Path_33" data-name="Path 33" d="M465.6,640.8,777.865,1743.617l-154.943,28.559L465.6,640.8Z" transform="translate(-153.335 490.576)" fill="url(#radial-gradient-34)"/>
+            <path id="Path_34" data-name="Path 34" d="M308.278-567.343,465.6,564.033h0L153.335-538.784Z" transform="translate(-153.335 567.343)" fill="url(#radial-gradient-35)"/>
+          </g>
+          <g id="Group_18" data-name="Group 18" transform="translate(489.703 142.095)">
+            <path id="Path_35" data-name="Path 35" d="M465.6,640.8l-593.437,996.434-132.642-80.25L465.6,640.8Z" transform="translate(260.479 355.634)" fill="url(#radial-gradient-36)"/>
+            <path id="Path_36" data-name="Path 36" d="M1191.679-343,465.6,573.189h0l593.437-996.434Z" transform="translate(260.479 423.245)" fill="url(#radial-gradient-37)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

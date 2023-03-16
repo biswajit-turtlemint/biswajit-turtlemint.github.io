@@ -1,0 +1,9 @@
+<svg id="last_section" data-name="last section" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="454.427" viewBox="0 0 1440 454.427">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.892" gradientTransform="translate(0.284) scale(0.432 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0.015" stop-color="#258e55"/>
+      <stop offset="1" stop-color="#1b6d52"/>
+    </radialGradient>
+  </defs>
+  <rect id="Rectangle_10" data-name="Rectangle 10" width="1440" height="454.427" fill="url(#radial-gradient)"/>
+</svg>
